@@ -1,39 +1,10 @@
-# Practicas de ASO
+# ADMINISTRACIÓN DE SISTEMAS OPERATIVOS (Curso 2026-27)
 
-## Administración de Sistemas Informáticos
+## Relación de contenidos y prácticas del módulo
 
-### MarkDown
-
-Esto es texto normal. Puedo poner **negrita** y *cursiva*, o ***las dos juntas***.
-
-Imprimimos en Python con `print()`.
-
-``` python
-a = 'Hola mundo'
-print(a)
-```
-
-## Listas
-
-1. Primer elemento
-2. Segundo elemento
-
-- Primer elemento
-  - Segundo elemento
-  
-## Tablas
-
-| Primera columna | Segunda columna | Tercera columna |
-|---------------- | --------------- | --------------- |
-| elemento1       | elemento 2      | elemento 3      |
-| elemento1       | elemento 2      | elemento 3      |
-| elemento1       | elemento 2      | elemento 3      |
-
-## Imágenes
-
-Copia-pega captura o imagen
-![alt text](image-1.png)
-
-## Enlaces
-
-[texto del enlace](ruta o enlace)
+| | Título | RAs |
+|---|---|---|
+| **UT01** | **INTRODUCCIÓN Y PREPARACIÓN DEL ENTORNO** | |
+| | `PR0101` [Repositorio de prácticas](./ut01/pr0101/pr0101.md) | Todos |
+| **UT02** | **ADMINISTRACIÓN REMOTA DEL SISTEMA** | `RA3` |
+| | `PR0201` [Administración remota en Windows](./ut02/pr0201.md) | `RA3` |

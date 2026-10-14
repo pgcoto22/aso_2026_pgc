@@ -1,0 +1,48 @@
+# Práctica PR0203: Scripts en Bash
+
+**Alumno:** Pablo González Coto
+
+## 1 y 2. Fecha y hora del sistema
+Script que muestra la fecha y hora del sistema, incluyendo una versión formateada con un mensaje personalizado utilizando el comando `date`.
+![Script fecha](fecha1.png)
+![Ejecución fecha](fecha2.png)
+
+## 3. Suma de dos números
+Script que solicita al usuario dos números por teclado y muestra el resultado de su suma evaluando la expresión aritmética.
+![Script suma](suma1.png)
+![Ejecución suma](suma2.png)
+
+## 4. Número par o impar
+Script que determina si un número introducido por el usuario es par o impar utilizando el operador módulo (`%`).
+![Script par o impar](parimpar.png)
+![Ejecución par o impar](parimpar2.png)
+
+## 5. Contar líneas de un archivo
+Script que solicita la ruta o nombre de un archivo, verifica que existe y es un archivo regular, y cuenta cuántas líneas tiene utilizando `wc -l`.
+![Script contar líneas](contarlineas.png)
+![Ejecución contar líneas](contarlineas2.png)
+
+## 6. Tabla de multiplicar
+Script que imprime la tabla de multiplicar de un número introducido por el usuario mediante un bucle `for` del 1 al 10.
+![Script tabla multiplicar](tablamulti.png)
+![Ejecución tabla multiplicar](tablamulti2.png)
+
+## 7. Comprobar permisos
+Script que solicita el nombre de un archivo e informa detalladamente si tiene permisos de lectura (`-r`), escritura (`-w`) y ejecución (`-x`) para el usuario actual.
+![Script comprobar permisos](comprobarpermisos.png)
+![Ejecución comprobar permisos](comprobarpermisos2.png)
+
+## 8. Copiar por extensión
+Script que crea un directorio de destino (si no existe) y copia todos los archivos con una extensión específica desde un directorio de origen ocultando los errores estándar.
+![Script copiar por extensión](copiar1.png)
+![Ejecución copiar por extensión](copiar2.png)
+
+## 9. Contar palabras
+Script que verifica la existencia de un archivo y cuenta cuántas palabras contiene en total utilizando el comando `wc -w`.
+![Script contar palabras](contarpalabras.png)
+![Ejecución contar palabras](contarpalabras2.png)
+
+## 10. Copia de seguridad
+Script que comprime todos los ficheros del directorio Escritorio en un archivo llamado `backup.DDMM.gz` (donde DD es el día y MM el mes actual) utilizando el comando `tar`.
+![Script copia de seguridad](copiaseguridad1.png)
+![Ejecución copia de seguridad](copiaseguridad2.png)

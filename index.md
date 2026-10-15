@@ -9,4 +9,5 @@
 | **UT02** | **ADMINISTRACIÓN REMOTA DEL SISTEMA** | `RA3` |
 | | `PR0201` [Administración remota en Windows](./ut02/pr0201.md) | `RA3` |
 | | `PR0202` [Conexión SSH](./ut02/pr0202.md) | 07/09/2026 | `RA4` |
-| | `PR301` [Scripts en Bash](./ut03/pr0301.md) | 14/10/2026 | `RA4` |
+| **UT03** | **SCRIPTING EN BASH** | `RA7` |
+| | `PR0301` [Scripts en Bash](./ut03/pr0301.md) | 14/10/2026 | `RA7` |

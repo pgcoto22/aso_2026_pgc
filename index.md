@@ -11,3 +11,4 @@
 | | `PR0202` [Conexión SSH](./ut02/pr0202.md) | 07/09/2026 | `RA4` |
 | **UT03** | **SCRIPTING EN BASH** | `RA7` |
 | | `PR0301` [Scripts en Bash](./ut03/pr0301.md) | 14/10/2026 | `RA7` |
+| | `PR0302` [Condicional if](./ut03/pr0302.md) | 23/10/2026 | `RA7` |

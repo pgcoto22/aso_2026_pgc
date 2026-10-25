@@ -12,5 +12,5 @@
 | **UT03** | **SCRIPTING EN BASH** | `RA7` |
 | | `PR0301` [Scripts en Bash](./ut03/pr0301.md) | 14/10/2026 | `RA7` |
 | | `PR0302` [Condicional if](./ut03/pr0302.md) | 23/10/2026 | `RA7` |
-| | `PR0303` [Parámetros en Bash](./ut03/pr0303.md) | 25/10/2026 | `RA7` |
-| | `PR0304` [Parámetros en Bash](./ut03/pr0304.md) |  | `RA7` |
+| | `PR0303` [Parámetros en Bash](./ut03/pr0303.ºmd) | 25/10/2026 | `RA7` |
+| | `PR0304` [El comando CASE](./ut03/pr0304.md) |  | `RA7` |

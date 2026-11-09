@@ -16,4 +16,4 @@
 | | `PR0304` [El comando CASE](./ut03/pr0304.md) |  | `RA7` |
 | **UT04** | **SCRIPTING EN POWERSHELl** | `RA7` |
 | | `PR0401` [Canalización, objetos y formato en Powershell](./ut04/pr0401.md) | 5/11/2026 | `RA7` |
-| | `PR0402` [Variables, tipos de datos y colecciones](./ut03/pr0402.md) |  | `RA7` |
+| | `PR0402` [Variables, tipos de datos y colecciones](./ut04/pr0402.md) | 12/11/2026  | `RA7` |

@@ -18,6 +18,6 @@
 | | `PR0401` [Canalización, objetos y formato en Powershell](./ut04/pr0401.md) | 5/11/2026 | `RA7` |
 | | `PR0402` [Variables, tipos de datos y colecciones](./ut04/pr0402.md) | 12/11/2026  | `RA7` |
 | | `PR0403` [Manipulación de cadenas](./ut04/pr0403.md) | 12/11/2026  | `RA7` |
-| | `PR0404` [ Limpieza de logs](./ut04/pr0404.md) | 12/11/2026  | `RA7` |
-| | `PR0405` [ Saneamiento de logs web](./ut04/pr0405.md) | 15/11/2026  | `RA7` |
-| | `PR0406` [ Normalización y saneamiento de inventario de red](./ut04/pr0406.md) |   | `RA7` |
+| | `PR0404` [Limpieza de logs](./ut04/pr0404.md) | 12/11/2026  | `RA7` |
+| | `PR0405` [Saneamiento de logs web](./ut04/pr0405.md) | 15/11/2026  | `RA7` |
+| | `PR0406` [Normalización y saneamiento de inventario de red](./ut04/pr0406.md) |   | `RA7` |

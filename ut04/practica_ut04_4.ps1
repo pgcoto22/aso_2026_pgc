@@ -1,5 +1,5 @@
 # =========================================================================
-# Ejercicio 1: Limpieza básica 
+# Ejercicio 1: Limpieza básica (Estos son directos, no tienen truco)
 # =========================================================================
 
 # 1. Normalizar a mayúsculas
@@ -35,7 +35,7 @@ $fecha.Replace(".", "-")
 $web = "www.miempresa.es"
 $web.Replace(".es", ".com")
 
-# 8. Censura de datos (El que hizo el profesor: saca el trozo [3] y lo cambia por XXXX)
+# 8. Censura de datos 
 $tarjeta = "1234-5678-9012-3456"
 $tarjeta.Replace($tarjeta.Split("-")[3], "XXXX")
 
@@ -43,7 +43,7 @@ $tarjeta.Replace($tarjeta.Split("-")[3], "XXXX")
 $rutaLinux = "/home/usuario/docs"
 $rutaLinux.Replace("/", "\")
 
-# 10. Doble reemplazo (Encadenando dos Replace seguidos como pide la pista)
+# 10. Doble reemplazo 
 $valor = "(Software)"
 $valor.Replace("(", "").Replace(")", "")
 

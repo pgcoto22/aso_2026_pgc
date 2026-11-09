@@ -1,0 +1,4 @@
+﻿"Method","CleanPath","MaskedIP","ErrorCode","Agent"
+"POST","/api/v1/auth/login","192.168.10.***","0040","Mozilla/5.0"
+"DELETE","/api/v1/admin/drop_table","172.16.254.***","0500","ScriptBot/1.2"
+"GET","/api/v1/user/profile","192.168.10.***","0403","Firefox/109.0"
